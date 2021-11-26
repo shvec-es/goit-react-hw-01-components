@@ -1,0 +1,30 @@
+th,
+td {
+  border: 1px solid #000000;
+}
+
+.transaction {
+  width: 300px;
+  margin-left: 35px;
+  margin-top: -90px;
+  border-collapse: collapse;
+  box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+  border-radius: 4px;
+}
+
+.name {
+  height: 40px;
+  background-color: #2da4f3;
+  color: #000000;
+  text-transform: uppercase;
+  font-size: 10px;
+}
+
+.item {
+  text-align: center;
+  height: 30px;
+  color: #545454;
+  background-color: #fff;
+  font-size: 10px;
+  text-transform: capitalize;
+}
